@@ -18,8 +18,10 @@ _Example of prediction result_
 You can run it by following below step:
 **1. Clone this repository**
 `git clone https://github.com/roissyahf/Flower-Species-Prediction.git`
+
 **2. Install required packages**
 `pip install requirements.txt`
+
 **3. Run `train.py` in the CLI to train the model**
 `python train.py data_directory`
 
