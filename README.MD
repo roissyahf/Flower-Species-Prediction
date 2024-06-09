@@ -4,7 +4,7 @@ This project will utilized pre-trained model: vgg11, vgg13, and vgg16 to classif
 
 [Link to download the dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 
-_Training Validation Acc-Loss_
+_Training Validation Loss_
 ![9f56c7b8e2f5d2928c45d6327b329a866286783d](https://github.com/roissyahf/Flower-Species-Prediction/assets/94748266/af324042-f013-4649-8460-a48b45b222a9)
 
 _Example of prediction result_
@@ -16,6 +16,7 @@ _Example of prediction result_
 
 ## Set up environment
 You can run it by following below step:
+
 **1. Clone this repository**
 `git clone https://github.com/roissyahf/Flower-Species-Prediction.git`
 
